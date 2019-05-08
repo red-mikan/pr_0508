@@ -1,4 +1,4 @@
-var sortNumber = function (number) {
+var sortNumberTest = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
            return 0;
